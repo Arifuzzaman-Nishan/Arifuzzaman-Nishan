@@ -19,6 +19,7 @@
 <a href="https://www.linkedin.com/in/arifuzzaman-nishan-675b97189/" target="_blank"> <img align="left" alt="Arifuzzaman Nishan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arifuzzaman Nishan&show_icons=true&locale=en&layout=compact" alt="Arifuzzaman Nishan" /></p>
-<p><img align="left" alt="Arifuzzaman Nishan GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Arifuzzaman Nishan&show_icons=true&hide_border=true" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arifuzzaman Nishan&show_icons=true&locale=en&layout=compact" alt="Arifuzzaman-Nishan" /></p>
+<p><img align="left" alt="Arifuzzaman Nishan GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Arifuzzaman-Nishan&show_icons=true&hide_border=true" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arifuzzaman-Nishan)](https://github.com/anuraghazra/github-readme-stats)
 

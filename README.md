@@ -17,11 +17,8 @@
 
 ###  :computer: Contact me on:
 <a href="https://www.linkedin.com/in/arifuzzaman-nishan-675b97189/" target="_blank"> <img align="left" alt="Arifuzzaman Nishan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+---
 
-### Sparetime: :parrot:
-- :clapper: I like to visit anything cultural.
-- :bicyclist: You can find me biking on a foldable bike, drinking a Chai Latte and walking in nature.
-- :tulip: Enjoying familylife and learning new things related to webdesign and webdevelopment is what keeps me alive and kicking.
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arifuzzaman-Nishan&show_icons=true&locale=en&layout=compact" alt="Arifuzzaman-Nishan" /></p>

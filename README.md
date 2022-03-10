@@ -20,7 +20,3 @@
 ---
 
 ---
-
-##<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arifuzzaman-Nishan&show_icons=true&locale=en&layout=compact" alt="Arifuzzaman-Nishan" /></p>
-##<p><img align="left" alt="Arifuzzaman Nishan GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Arifuzzaman-Nishan&show_icons=true&hide_border=true" /></p>
-
